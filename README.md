@@ -1,5 +1,11 @@
 # CLI - Paste
 
+
+
+https://github.com/Manavalan2517/Cli-Pastes/assets/112639423/92b48edd-201c-415b-a7a0-195db9281a30
+
+
+
 > ` It is Inspired from ( https://github.com/codemyst/pastemyst )`
 
 # A simple Python script to create and manage text pastes.
